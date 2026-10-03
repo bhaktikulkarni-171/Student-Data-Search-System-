@@ -1,0 +1,4 @@
+for run :   python student_search.py 
+pip install -r requirements.txt
+pandas>=2.0.0          
+
